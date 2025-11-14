@@ -8,22 +8,10 @@ def hello_world():
 
 
 
-# @app.route("/")
-# def hello_world():
-#     html = """
-#     <h1>тестовый запуск локального сервера</h1>
-#     <p>А это просто текст</p>
-#     """
-#     return html
 
 
-# @app.route("/")
-# @app.route("/<password>/")
-# def hello_world(password=None):
-#     if password == "1234":
-#         return f"Доступ разрешен"
-#     else:
-#         return f"Доступ запрещен"
+
+
 
 
 
